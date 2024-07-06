@@ -4,7 +4,7 @@ author: Hua Sun
 author-img: photo.png
 about-author: I am a computational biologist focusing on pediatric brain tumors. 
 
-baseurl: "/hsun9"
+#baseurl: "/hsun9"
 
 social-github: hsun9
 social-linkedin: hua-sun
