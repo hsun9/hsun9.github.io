@@ -1,0 +1,14 @@
+---
+layout: post
+title: RESEARCH
+img: research.jpg
+---
+
+
+### Areas of Research
+
+Computational Biology | Cancer Genomics | Tumor Heterogeneity 
+
+
+### Research Statement 
+
