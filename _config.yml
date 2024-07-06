@@ -1,0 +1,34 @@
+title: Hello, world!
+description: > # this means to ignore newlines until "baseurl:"
+
+permalink: ':title/'
+baseurl: "/hsun9" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
+site-twitter: #if your site has a twitter account, enter it here
+
+# Author Settings
+author: Hua Sun # add your name
+author-img: photo.png # add your photo
+about-author: I am a computational biologist focusing on pediatric brain tumors. # add description
+
+social-github: hsun9
+social-linkedin: hua-sun
+social-email: hua.sun229@gmail.com
+
+# Disqus
+discus-identifier: mr-brown # add your discus identifier
+
+# Tracker
+analytics: # Google Analytics
+
+# Build Settings
+markdown: kramdown
+plugins:
+  - jekyll-sitemap
+  - jekyll-paginate
+  - jemoji
+
+paginate: 8
+paginate_path: "/page/:num"
+
+exclude: ["node_modules", "gulpfile.js", "package.json", "yarn.lock"]
