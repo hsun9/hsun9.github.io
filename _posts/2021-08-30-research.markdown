@@ -7,7 +7,7 @@ img: research.png
 
 ### Areas of Research
 
-Computational Biology | Cancer Genomics | Tumor Heterogeneity 
+Computational Biology &#124; Cancer Genomics &#124; Tumor Heterogeneity 
 
 
 ### Research Statement 
