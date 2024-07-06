@@ -1,13 +1,13 @@
 ---
 layout: post
-title: SOFTWARES/WORKFLOWS/PIPELINES
+title: SOFTWARES
 img: how-to-start.jpg
 ---
-Shown here are some of the tools I've developed while working on various projects.
 
+<p>Shown here are some of the tools I've developed while working on various projects. </p>
 
-**[SeqQEst]**[https://github.com/hsun9/SeqQEst]
-> I developed it while working on PDX projects in the Ding lab at Washington University in St. Louis
+</p>* **[SeqQEst]**(https://github.com/hsun9/SeqQEst)</p>
+> I developed it while working on PDX projects in the Ding lab at Washington University in St. Louis 
 
 
 ...
